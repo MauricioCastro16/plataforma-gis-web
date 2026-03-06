@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MauricioCastro16/plataforma-gis-web)
+
 # Plataforma Gis Web
 
 ![React](https://img.shields.io/badge/react-19.2.0-blue)
